@@ -1,5 +1,5 @@
 --- 
-title: "MedTech Spoke Guide."
+title: "MedTech Foundation Spoke Guide"
 author: "MedTech Foundation"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -8,7 +8,16 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo:  Medtech-Foundation/spoke-doc 
 description: "A guide to run MedTech Foundation Spokes"
 ---
 
+
+
+# Introduction {#intro}
+
+Welcome!
+
+This document is created to address the questions that you may have about running a spoke. Thus, it will only serve its purpose if we share what issues you may be facing and the document is set up in such a way that anyone can make an edit. Click on the fourth button from left to right to make an edit (you may need to register a GitHub account first). If you have any questions or want to suggest an edit without a GitHub account, please feel free to email programmedirector@medtechfoundation.org. 
+
+The MedTech Foundation is a national engagement initiative for university students, early career researchers and clinicians. This initiative aims to support healthcare technology innovation by connecting medical, engineering, scientists, product design, business and industry specialties together. Each year, the collaborative delivers an educational Innovation Programme and organises several research and industry internships, giving its members enhanced training and opportunities to engage with real-world medtech innovation. We have spokes in Leeds, Birmingham, Cambridge, Edinburgh, Leicester, Warwick and beyond as well as affiliations across the UK. Our main supporters are the NIHR Surgical MIC. 
